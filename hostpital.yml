@@ -1,0 +1,12 @@
+Hostpital:
+  patient:
+    name:
+    age:
+    cured:
+    blood_type:
+    behavior:
+      cure!:
+      cared?:
+  room:
+    capacity:
+    patients: []
